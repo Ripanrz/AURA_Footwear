@@ -30,7 +30,7 @@ Karena proyek ini hanya terdiri dari file statis, Anda tidak perlu menginstal No
 
 1.  **Clone Repositori ini:**
     ```bash
-    git clone [https://github.com/username-anda/aura-footwear.git](https://github.com/username-anda/aura-footwear.git)
+    git clone [https://github.com/Ripanrz/AURA_Footwear.git](https://github.com/Ripanrz/AURA_Footwear.git)
     ```
 2.  Buka folder proyek yang baru saja di-clone.
 3.  Klik ganda pada file `index.html` untuk membukanya di browser web favorit Anda (Chrome, Firefox, Safari, Edge).
