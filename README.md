@@ -1,6 +1,6 @@
 # AURA Footwear 👟
 
-> `![Screenshot AURA Footwear](link-gambar-anda-di-sini.png)`
+> ![Screenshot AURA Footwear](SS_Aura_Footwear)
 
 AURA Footwear adalah template *landing page* e-commerce yang dirancang khusus untuk merek sepatu olahraga premium. Mengusung gaya modern, minimalis, dan berfokus pada konversi penjualan, antarmuka ini terinspirasi oleh merek-merek ternama namun dengan pendekatan visual yang lebih bersih dan estetika aksen neon yang tajam.
 
